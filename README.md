@@ -52,9 +52,3 @@ Notes
 - The video demonstration provides a walkthrough of the application’s features and functionality.
 
 If you have any questions or need further clarification, please feel free to reach out.
-
-Thank you for the opportunity to demonstrate my skills.
-
-Best regards,
-
-Utkarsh Mahajan
