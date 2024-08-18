@@ -8,10 +8,10 @@ import (
 )
 
 type Transaction struct {
-	From      uuid.UUID // Sender's wallet address
-	To        uuid.UUID // Receiver's wallet address
-	Amount    float64   // Amount transferred
-	Timestamp time.Time // Time when the transaction was recorded
+	From      uuid.UUID 
+	To        uuid.UUID 
+	Amount    float64   
+	Timestamp time.Time 
 }
 
 func RecordTransaction(from uuid.UUID, to uuid.UUID, amount float64, ledger *[]Transaction, ledgerMux *sync.Mutex) {
